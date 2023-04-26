@@ -1,16 +1,16 @@
-### Hi there 👋
+<h1 align="center">Olá 👋 Sou o Kauan Araujo</h1>
+<h3 align="center">Técnico em ADS e viciado em aprender :)</h3>
 
-<!--
-**Kauanarauj0/Kauanarauj0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Cursando **Tecnólogo em Comércio Exterior**
 
-Here are some ideas to get you started:
+- 🌱 Atualmente estou estudando **metodologias ágeis, power BI e gerência de projetos**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 Como me contatar? **k4uan.arauj0@gmail.com**
+
+- ⚡ Fun fact **eu amo ouvir música e jogar wow**
+
+<h3 align="left">Veja mais sobre mim aqui:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/kauan-arauj0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kauan-arauj0/" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/k4uanarauj0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/k4uanarauj0/" height="30" width="40" /></a>
+</p>
