@@ -3,7 +3,7 @@
 
 - 🔭 Cursando **Tecnólogo em Comércio Exterior**
 
-- 🌱 Atualmente estou estudando **metodologias ágeis, power BI e gerência de projetos**
+- 🌱 Atualmente estou estudando **metodologias ágeis, AWS e gerência de projetos**
 
 - 📫 Como me contatar? **k4uan.arauj0@gmail.com**
 
